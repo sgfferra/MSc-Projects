@@ -1,0 +1,5 @@
+/Users/francesco/Projects/Assessment week 5_FF/Assessment week 5_FF/obj/Debug/net7.0/Assessment week 5_FF.csproj.AssemblyReference.cache
+/Users/francesco/Projects/Assessment week 5_FF/Assessment week 5_FF/obj/Debug/net7.0/Assessment week 5_FF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/francesco/Projects/Assessment week 5_FF/Assessment week 5_FF/obj/Debug/net7.0/Assessment week 5_FF.AssemblyInfoInputs.cache
+/Users/francesco/Projects/Assessment week 5_FF/Assessment week 5_FF/obj/Debug/net7.0/Assessment week 5_FF.AssemblyInfo.cs
+/Users/francesco/Projects/Assessment week 5_FF/Assessment week 5_FF/obj/Debug/net7.0/Assessment week 5_FF.csproj.CoreCompileInputs.cache
